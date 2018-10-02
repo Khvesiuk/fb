@@ -4,30 +4,68 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Bolts.xcscheme</key>
+		<key>Bolts.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>FBSDKCoreKit.xcscheme</key>
+		<key>FBSDKCoreKit.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>FBSDKLoginKit.xcscheme</key>
+		<key>FBSDKLoginKit.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>FBSDKShareKit.xcscheme</key>
+		<key>FBSDKShareKit.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
 		<key>Pods-FB-Framework.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>38620D0DD40AD5DE877BDE612643C7CB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>38DD3F2D5FE8D540373E3765824C73C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>934C4150B301C38CE8C638BDC7E72500</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9A272059B76EB330F411F0A636F0BF91</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF8E04DC5530ABD2282F7B009D86156D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
